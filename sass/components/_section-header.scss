@@ -1,6 +1,6 @@
 @use '../abstracts' as *;
 
-.section-heading {
+.section-header {
   // if we have a subtitle
   &:has(p) {
     margin-block-end: size(36);
