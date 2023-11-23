@@ -3,4 +3,5 @@
 .flex-group {
   display: flex;
   gap: var(--flex-gap, $flex-group-gap);
+  width: fit-content;
 }
